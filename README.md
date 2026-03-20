@@ -3,6 +3,7 @@
 End-to-end machine learning projects spanning time series forecasting, classification, anomaly detection, and predictive modeling — built with Python, Scikit-learn, TensorFlow, and MLflow across real-world public datasets.
 
 **Author:** Tejamanikanta Gudla | Dallas, TX
+
 **LinkedIn:** [linkedin.com/in/tejamanikantagudla](https://www.linkedin.com/in/tejamanikantagudla/)
 
 ---
